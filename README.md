@@ -3,6 +3,7 @@ Mastering LinkedIn for Career Growth - Laravel Application 🚀
 Modern Laravel web application dengan landing page responsive untuk promosi kelas online "Mastering LinkedIn for Career Growth"
 
 📋 Deskripsi Project
+
 Aplikasi web Laravel yang menampilkan landing page modern, responsive, dan profesional untuk mempromosikan kelas online LinkedIn.
 Dilengkapi dengan sistem registrasi, database integration (SQLite/MySQL), dan form validation.
 
@@ -21,6 +22,10 @@ Tailwind CSS – Utility-first CSS
 Vanilla JavaScript – Frontend Interactions
 
 Eloquent ORM – Database Operations
+
+
+
+
 
 
 ✨ Fitur Utama
@@ -58,6 +63,7 @@ Node.js & NPM
 MySQL/SQLite
 
 Step 1: Clone & Install
+
 # Clone repository
 git clone [https://github.com/salsabilatts/Belajar-LinkedIn-landing-page]
 
